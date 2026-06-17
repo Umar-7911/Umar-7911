@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/Umar-Dalal" target="blank">
+<a href="https://linkedin.com/in/umar-dalal-79a92a289/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umar-Dalal" height="30" width="40" />
 </a>
 
