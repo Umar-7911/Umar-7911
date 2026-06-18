@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umar Dalal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Umar-7911" alt="Umar-7911" />
-  </a>
-</p>
 
 <ul>
   <li>👯 I’m looking to collaborate on <b>MERN Stack and Full Stack Projects</b></li>
