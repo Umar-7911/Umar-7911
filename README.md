@@ -79,8 +79,9 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <ul>
-  <li>🥇 Winner — Smart India Hackathon (SIH) 2024 Internal College Round</li>
-  <li>🎯 Qualified for Final Project Presentation at Edunet Foundation in collaboration with EY GDS</li>
+<li>🥇 Winner — Smart India Hackathon (SIH) 2024 Internal College Round</li>
+<li>🎯 Qualified for Final Project Presentation at Edunet Foundation in collaboration with EY GDS</li>
+<li>🏆 Secured 1st Rank in the Information Technology Department during Second Year and Third Year</li>
 </ul>
 
 <h2 align="center">🚀 Featured Projects</h2>
